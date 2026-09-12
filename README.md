@@ -9,8 +9,6 @@
 > **Pick a mode. Apply. Roll back anything — item by item, or everything.**
 > WinOpt is a desktop app that optimizes Windows 11 without the scare: every change stores its previous value, and you can undo it from the app's history at any time.
 
-![WinOpt — main window](docs/screenshot-main.png)
-
 📖 **Español:** lee la versión en español en [LEEME.md](LEEME.md).
 
 ---

@@ -9,8 +9,6 @@
 > **Elige un modo. Aplica. Revierte lo que quieras — ítem por ítem o todo.**
 > WinOpt optimiza Windows 11 sin sustos: cada cambio guarda su valor anterior y puedes deshacerlo en cualquier momento desde el historial de la app.
 
-![WinOpt — ventana principal](docs/screenshot-main.png)
-
 📖 **English:** read the English version in [README.md](README.md).
 
 ---
