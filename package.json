@@ -1,0 +1,44 @@
+{
+  "name": "winopt",
+  "private": true,
+  "version": "0.1.0",
+  "description": "WinOpt - Safe and reversible Windows 11 optimizer (Tauri + Rust + PowerShell engine)",
+  "author": "Luis Solano",
+  "license": "MIT",
+  "keywords": [
+    "windows",
+    "optimizer",
+    "tauri",
+    "rust",
+    "powershell",
+    "win11"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.11.1",
+    "lucide-react": "^1.45.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.11.4",
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.1.0",
+    "esbuild": "^0.28.2",
+    "oxlint": "^1.79.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.2"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}
